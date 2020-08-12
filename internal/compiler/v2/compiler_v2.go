@@ -10,8 +10,8 @@ import (
 	"github.com/go-task/task/v2/internal/compiler"
 	"github.com/go-task/task/v2/internal/execext"
 	"github.com/go-task/task/v2/internal/logger"
-	"github.com/go-task/task/v2/internal/taskfile"
 	"github.com/go-task/task/v2/internal/templater"
+	"github.com/go-task/task/v2/taskfile"
 )
 
 var _ compiler.Compiler = &CompilerV2{}

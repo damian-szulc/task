@@ -4,8 +4,8 @@ import (
 	"path/filepath"
 
 	"github.com/go-task/task/v2/internal/execext"
-	"github.com/go-task/task/v2/internal/taskfile"
 	"github.com/go-task/task/v2/internal/templater"
+	"github.com/go-task/task/v2/taskfile"
 )
 
 // CompiledTask returns a copy of a task, but replacing variables in almost all

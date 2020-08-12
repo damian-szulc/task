@@ -12,7 +12,7 @@ import (
 	"testing"
 
 	"github.com/go-task/task/v2"
-	"github.com/go-task/task/v2/internal/taskfile"
+	"github.com/go-task/task/v2/taskfile"
 
 	"github.com/stretchr/testify/assert"
 )
