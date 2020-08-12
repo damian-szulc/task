@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/go-task/task/v2"
-	"github.com/go-task/task/v2/args"
+	"github.com/damian-szulc/task/v2"
+	"github.com/damian-szulc/task/v2/args"
 
 	"github.com/spf13/pflag"
 )

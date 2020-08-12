@@ -5,7 +5,7 @@ import (
 	"sort"
 	"text/tabwriter"
 
-	"github.com/go-task/task/v2/taskfile"
+	"github.com/damian-szulc/task/v2/taskfile"
 )
 
 // PrintTasksHelp prints help os tasks that have a description

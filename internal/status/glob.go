@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"sort"
 
-	"github.com/go-task/task/v2/internal/execext"
+	"github.com/damian-szulc/task/v2/internal/execext"
 
 	"github.com/mattn/go-zglob"
 )

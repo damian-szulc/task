@@ -3,8 +3,8 @@ package summary
 import (
 	"strings"
 
-	"github.com/go-task/task/v2/internal/logger"
-	"github.com/go-task/task/v2/taskfile"
+	"github.com/damian-szulc/task/v2/internal/logger"
+	"github.com/damian-szulc/task/v2/taskfile"
 )
 
 func PrintTasks(l *logger.Logger, t *taskfile.Taskfile, c []taskfile.Call) {

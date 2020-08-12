@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/go-task/task/v2/taskfile"
+	"github.com/damian-szulc/task/v2/taskfile"
 	"github.com/mattn/go-zglob"
 	"github.com/radovskyb/watcher"
 )
